@@ -1,0 +1,10 @@
+{
+    "contactsDatabase": [
+        { "identifier": "test@gmail.com", "name": "Timmy", "phone": "78425"},
+        { "identifier": "example@gmail.com", "name": "Ammy", "phone": "5374892"},
+        { "identifier": "example@gmail.com", "name": "Emmy", "phone": "364289"},
+        { "identifier": "test@gmail.com", "name": "Timmy", "phone": "78425"},
+        { "identifier": "example@gmail.com", "name": "Ammy", "phone": "5374892"},
+        { "identifier": "example@gmail.com", "name": "Emmy", "phone": "364289"}
+    ]
+}
